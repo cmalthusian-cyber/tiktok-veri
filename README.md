@@ -1,1 +1,1 @@
-# tiktok-veri
+tiktok-developers-site-verification=LACrwCsMcNnCNWqC0FK5JJSYWp0Kile1
